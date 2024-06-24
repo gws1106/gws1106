@@ -1,10 +1,4 @@
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=plastic&logo=notion&logoColor=000000"/></a>
 
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Who%20am%20i?&fontSize=90)
