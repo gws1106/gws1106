@@ -6,7 +6,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gws1106)](https://github.com/gws1106/github-readme-stats)
 
-
-# Hi there 👋
-## [Notion](https://geonu-god.notion.site/s-ac9985bdef2b4914b8dac52f7bd8bf75?pvs=4)
-
