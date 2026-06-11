@@ -2,8 +2,6 @@
 <a href="gw110665@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=Red"/></a>
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Who%20am%20i?&fontSize=90)
-
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=gws1106)](https://github.com/gws1106)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gws1106)](https://github.com/gws1106/github-readme-stats)
